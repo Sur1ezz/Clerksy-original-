@@ -1,0 +1,81 @@
+*,
+*::after,
+*::before{
+    padding: 0;
+    margin: 0;
+}
+.pircure1{
+margin-left: 100px;
+}
+
+.text{
+    margin-left: 1000px;
+    margin-top: -450px;
+    font-weight: 350;
+    font-size: 90px;
+}
+
+.text2{
+    margin-left: 1010px;
+    margin-top: 10px;
+    font-size: 30px;
+}
+
+.pircure2{
+    margin-left: 1100px;
+    margin-top: 160px;
+}
+
+.text3{
+    margin-left: 100px;
+    font-size: 90px;
+    font-weight: 350;
+    margin-top: -320px;
+}
+
+.text4{
+    margin-left: 110px;
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+.pircure3{
+    margin-top: 200px;
+    margin-left: 700px;
+}
+
+.pircure4{
+    margin-top: 20px;
+    margin-left: 500px;
+}
+
+.pircure5{
+    margin-left: 310px;
+    scale: 1.33;
+    margin-top: 100px;
+}
+
+.pircure6{
+    margin-left: 310px;
+    margin-top: 190px;
+    scale: 1.33;
+}
+
+.pircure7{
+    margin-top: 360px;
+    margin-left: 300px;
+}
+
+.pircure8{
+    margin-top: 200px;
+    margin-left: 100px;
+}
+
+.email-input{
+    width: 400px;
+    margin-top: -200;
+    margin-left: 700px;
+    font-weight: 300;
+    border-radius: 30px;
+    height:30px;
+}
